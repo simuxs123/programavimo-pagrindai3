@@ -1,0 +1,9 @@
+Parduota:
+Agurkai         50
+Bulvės         221
+Braškės       18
+Liko neparduota:
+Agurkai         5
+Bulvės         9
+Ukininkas uzdirbo: 285.90
+Jono pelnas: 11.60

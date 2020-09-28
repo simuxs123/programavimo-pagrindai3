@@ -1,0 +1,22 @@
+21
+Bulvės         3 1.0
+Bulvės         20 1.0
+Agurkai        4 1.50
+Braškės        5 3.0
+Braškės        3 3.0
+Agurkai        5 1.30
+Agurkai        2 1.30
+Bulvės         5 0.90
+Bulvės         40 0.90
+Braškės        8 2.50
+Agurkai        20 1.20
+Bulvės         50 0.85
+Bulvės         25 0.85
+Braškės        2 2.30
+Agurkai        10 1.20
+Bulvės         20 0.80
+Agurkai        4 1.15
+Bulvės         40 0.80
+Agurkai        5 1.10
+Bulvės         15 0.70
+Bulvės         3 0.65
